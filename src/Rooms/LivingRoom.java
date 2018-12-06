@@ -1,7 +1,7 @@
 package Rooms;
 
 import Game.Runner;
-import People.person;
+import People.Person;
 
 public class LivingRoom extends Room {
     public LivingRoom(int x2, int y2){
